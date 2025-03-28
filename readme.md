@@ -1,4 +1,4 @@
-Assignment 2
+Assignment 1
 
 Brief: This assignment focuses on fundamental Python programming concepts, including performing a basic mathematical operation and string manipulation.
 
